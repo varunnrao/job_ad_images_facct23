@@ -1,0 +1,10 @@
+# General
+*.DS_Store
+.DS_Store?
+
+# Thumbnails
+._*
+
+# Backup
+*~
+*.swp
