@@ -6,13 +6,12 @@ Authors: [Varun Nagaraj Rao](https://www.linkedin.com/in/vnrao/), [Aleksandra Ko
 
 Affiliation: Center for Information Technology Policy (CITP), Princeton University
 
-The paper will be presented at [PLSC 2023](https://privacyscholars.org/plsc-2023/) and [FAccT 2023](https://facctconference.org/2023/).
+The paper was presented at [PLSC 2023](https://privacyscholars.org/plsc-2023/) and [FAccT 2023](https://facctconference.org/2023/).
 
-We will update links to the paper once they are available.
 
-[//]: # (Paper Links:)
+Paper Link:
 
-[//]: # (- [ACM]&#40;&#41;)
+- [ACM Digital Library](https://dl.acm.org/doi/pdf/10.1145/3593013.3594115)
 
 [//]: # (- [arXiv]&#40;&#41;)
 
