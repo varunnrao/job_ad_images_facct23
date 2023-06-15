@@ -13,6 +13,9 @@ Paper Link:
 
 - [ACM Digital Library](https://dl.acm.org/doi/pdf/10.1145/3593013.3594115)
 
+Video Link:
+- [YouTube](https://www.youtube.com/watch?v=O5sBQBO_uWc)
+
 [//]: # (- [arXiv]&#40;&#41;)
 
 [//]: # ()
